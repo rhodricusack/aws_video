@@ -1,6 +1,7 @@
 # 2020-08-05
 ## rekognition_all_stages.py
-Main entry point to run rekognition.
+Now single entry point to run rekognition stages.
+
 
 # 2018-02-26 
 ## run_video_rekognition.py
@@ -12,5 +13,3 @@ Main entry point to run rekognition.
 ## post_rekognition_ml.py
     Loads coding pickle files and extracts creates Pandas dataframe containing columns that are likely to be useful for ML
 
-# 2018-03-12 
-Now all in one file, rekognition_all_stages.py
