@@ -1,0 +1,16 @@
+Amount of light and proponeface, pearson r=0.449483 p<0.008684
+Amount of light and dprime, pearson r=0.225107 p<0.207842
+Horizontal clockface and proponeface, pearson r=0.000640 p<0.997863
+Horizontal clockface and dprime, pearson r=-0.440792 p<0.051739
+Vertical light and proponeface, pearson r=-0.481068 p<0.043268
+Vertical light and dprime, pearson r=0.055063 p<0.828206
+Resolution and proponeface, pearson r=0.245310 p<0.168824
+Resolution and dprime, pearson r=-0.018976 p<0.916524
+Iris size and proponeface, pearson r=0.151474 p<0.479848
+Iris size and dprime, pearson r=0.059371 p<0.782876
+Iris colour and proponeface, pearson r=0.108865 p<0.596540
+Iris colour and dprime, pearson r=0.070552 p<0.731990
+Eye shape and proponeface, pearson r=0.151428 p<0.408061
+Eye shape and dprime, pearson r=-0.028519 p<0.876866
+Face in frame and proponeface, pearson r=0.202488 p<0.258429
+Face in frame and dprime, pearson r=-0.051956 p<0.773997

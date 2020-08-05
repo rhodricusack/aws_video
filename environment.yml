@@ -1,0 +1,7 @@
+name: infant_rekognition
+dependencies:
+  - boto3
+  - matplotlib
+  - seaborn
+  - pillow
+  - scikit-learn

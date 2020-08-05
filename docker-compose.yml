@@ -1,0 +1,9 @@
+version: '3.1'
+services:
+  aws_video:
+    build: .
+    ports:
+    - "2222:22"
+    environment:
+    - AWS_ACCESS_KEY_ID
+    - AWS_SECRET_ACCESS_KEY
