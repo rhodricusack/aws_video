@@ -1,2 +1,0 @@
-osf/dqmcv/osfstorage/novelverbs	man_auto_kappa	0.114949 +/- 0.107218	man_man_kappa	0.784289 +/- 0.123047	
-osf/tqgkc/osfstorage/novelverbs	man_auto_kappa	0.118734 +/- 0.089618	man_man_kappa	0.793259 +/- 0.141110	
